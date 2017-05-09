@@ -7,7 +7,7 @@ target 'DemoApp' do
   # use_frameworks!
 
   # Pods for DemoApp
-  pod 'HCYoutubeParser', :path => '~/Desarrollo/workspace/HCYoutubeParser'
+  pod 'HCYoutubeParser', :git => "https://github.com/juanmatm82/HCYoutubeParser.git"
 
   target 'DemoAppTests' do
     inherit! :search_paths
