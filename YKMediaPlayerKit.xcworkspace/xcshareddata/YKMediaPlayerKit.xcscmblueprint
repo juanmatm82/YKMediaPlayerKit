@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "396B58816A1232440FC6B57D01D6B0B83F887E0B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "19EAE2FF9FBDDBBF09EFE9AC77CD6E6E275FB0D8" : 9223372036854775807,
+    "396B58816A1232440FC6B57D01D6B0B83F887E0B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "598EC707-EA36-477E-AABE-98908C5D1BE7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "19EAE2FF9FBDDBBF09EFE9AC77CD6E6E275FB0D8" : "HCYoutubeParser\/",
+    "396B58816A1232440FC6B57D01D6B0B83F887E0B" : "YKMediaPlayerKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YKMediaPlayerKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YKMediaPlayerKit.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/juanmatm82\/HCYoutubeParser.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19EAE2FF9FBDDBBF09EFE9AC77CD6E6E275FB0D8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/juanmatm82\/YKMediaPlayerKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "396B58816A1232440FC6B57D01D6B0B83F887E0B"
+    }
+  ]
+}

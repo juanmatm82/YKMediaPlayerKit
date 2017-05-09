@@ -13,6 +13,7 @@ Pod::Spec.new do |s|
   s.frameworks   = 'UIKit', 'CoreGraphics'
   s.requires_arc = true
 
-  s.dependency 'HCYoutubeParser', '~> 0.0'
+  /s.dependency 'HCYoutubeParser', '~> 0.0'/
   s.dependency 'IGVimeoExtractor', '~> 1.2'
+
 end
